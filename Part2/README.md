@@ -3,7 +3,6 @@ Course      : Database
 submitted to: Miss Javeria 
 submitted by: i211213_Syeda Fatima Kazmi
               i211186_Anum Batool
-
 ERD Explaination
 The EERD consists of the following entities and their attributes:
 1. Person (PersonID (Primary Key),SSN,Name,Address,TelephoneNumber)
